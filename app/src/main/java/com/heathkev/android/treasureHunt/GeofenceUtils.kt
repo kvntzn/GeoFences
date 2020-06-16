@@ -44,7 +44,7 @@ internal object GeofencingConstants {
             "golden_gate_bridge",
             R.string.golden_gate_bridge_hint,
             R.string.golden_gate_bridge_location,
-            LatLng(37.819927, -122.478256)),
+            LatLng(15.223609, 120.572372)), //change to dev location for testing
 
         LandmarkDataObject(
             "ferry_building",
