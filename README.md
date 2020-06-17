@@ -1,4 +1,4 @@
-# GeoFences
+# GeoFences / Treasure Hunt
 an android application using Geofencing to find a clue to a certain location and sends a notification. 
 Finish the first clue to proceed on the other clues and to finish the game.
 
